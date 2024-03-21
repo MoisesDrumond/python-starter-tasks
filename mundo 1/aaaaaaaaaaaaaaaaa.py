@@ -1,0 +1,1 @@
+print('\033[4;31;40mCaua nao coda cm nós pq é viado\033[m')
